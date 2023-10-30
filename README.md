@@ -41,11 +41,6 @@ Honeypots may also be put outside the external firewall facing the internet to d
 
 ![Block Diagram](assets/Block-Diagram.png)
 
-### **Demo Video**
-
-<div align="center">
-  <video width="700" alt="Demo Video" loop src="https://user-images.githubusercontent.com/54375111/141642253-db21b491-25cf-47ff-afa1-3fb655270e99.mp4" autoplay/>
-</div>
 
 ### **Screenshots**
 
