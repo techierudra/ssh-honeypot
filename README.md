@@ -7,9 +7,9 @@
 
 ## **Team Members**
 
-- **RA1911030010014 - Gita Alekhya Paul**
-- **RA1911030010025 - Ratanshi Puri**
-- **RA1911030010030 - Nitish Chaturvedi**
+- **RA2111003010321 - Rudra Garai**
+- **RA2111003010311 - Saptoparna Patra**
+- **RA2111003010303 - Arzob Sen**
 
 ## **Abstract**
 
@@ -136,14 +136,14 @@ The project uses Docker to containerize and package the application for easier d
 <tr align="center">
 <td>
 
-**Gita Alekhya Paul**
+**Rudra Garai**
 
 <p align="center">
-<img src = "https://github.com/gitaalekhyapaul.png"  height="120" alt="Gita Alekhya Paul">
+<img src = "https://github.com/techierudra.png"  height="120" alt="Rudra Garai">
 </p>
 <p align="center">
-<a href = "https://github.com/gitaalekhyapaul"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
-<a href = "https://www.linkedin.com/in/gitaalekhyapaul/">
+<a href = "https://github.com/techierudra"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
+<a href = "https://www.linkedin.com/in/techierudra/">
 <img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
 </a>
 </p>
@@ -151,14 +151,14 @@ The project uses Docker to containerize and package the application for easier d
 
 <td>
 
-**Ratanshi Puri**
+**Saptaparno Patra**
 
 <p align="center">
-<img src = "https://github.com/Ratanshi.png"  height="120" alt="Ratanshi Puri">
+<img src = "https://github.com/Saptaparno311.png"  height="120" alt="Saptaparno Patra">
 </p>
 <p align="center">
-<a href = "https://github.com/Ratanshi"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
-<a href = "https://www.linkedin.com/in/ratanshi/">
+<a href = "https://github.com/Saptaparno311"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
+<a href = "https://www.linkedin.com/Saptaparno311/">
 <img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
 </a>
 </p>
@@ -166,14 +166,14 @@ The project uses Docker to containerize and package the application for easier d
 
 <td>
 
-**Nitish Chaturvedi**
+**Arzob Sen**
 
 <p align="center">
-<img src = "https://github.com/waterupto.png"  height="120" alt="Nitish Chaturvedi">
+<img src = "https://github.com/.png"  height="120" alt="Arzob Sen">
 </p>
 <p align="center">
-<a href = "https://github.com/waterupto"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
-<a href = "https://www.linkedin.com/in/waterupto/">
+<a href = "https://github.com/"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
+<a href = "https://www.linkedin.com/">
 <img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
 </a>
 </p>
