@@ -164,11 +164,11 @@ The project uses Docker to containerize and package the application for easier d
 **Arzob Sen**
 
 <p align="center">
-<img src = "https://github.com/.png"  height="120" alt="Arzob Sen">
+<img src = "https://github.com/Arzob.png"  height="120" alt="Arzob Sen">
 </p>
 <p align="center">
-<a href = "https://github.com/"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
-<a href = "https://www.linkedin.com/">
+<a href = "https://github.com/Arzob"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
+<a href = "https://www.linkedin.com/arzob-sen-4a20b08a">
 <img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
 </a>
 </p>
