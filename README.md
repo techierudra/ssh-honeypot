@@ -8,7 +8,7 @@
 ## **Team Members**
 
 - **RA2111003010321 - Rudra Garai**
-- **RA2111003010311 - Saptoparna Patra**
+- **RA2111003010311 - Saptaparna Patra**
 - **RA2111003010303 - Arzob Sen**
 
 ## **Abstract**
@@ -153,7 +153,7 @@ The project uses Docker to containerize and package the application for easier d
 </p>
 <p align="center">
 <a href = "https://github.com/Saptaparno311"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
-<a href = "https://www.linkedin.com/Saptaparno311/">
+<a href = "https://www.linkedin.com/in/Saptaparno311/">
 <img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
 </a>
 </p>
@@ -168,7 +168,7 @@ The project uses Docker to containerize and package the application for easier d
 </p>
 <p align="center">
 <a href = "https://github.com/Arzob"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
-<a href = "https://www.linkedin.com/arzob-sen-4a20b08a">
+<a href = "https://www.linkedin.com/in/arzob-sen-4a20b08a">
 <img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
 </a>
 </p>
