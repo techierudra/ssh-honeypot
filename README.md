@@ -8,7 +8,7 @@
 ## **Team Members**
 
 - **RA2111003010321 - Rudra Garai**
-- **RA2111003010311 - Saptaparna Patra**
+- **RA2111003010311 - Saptaparno Patra**
 - **RA2111003010303 - Arzob Sen**
 
 ## **Abstract**
